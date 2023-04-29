@@ -1,0 +1,75 @@
+body{
+    background: #739faa;
+    font-family: Georgia;
+}
+ 
+#main_font{
+    padding: 0px 0px 30px 0px;
+    margin: 50px 300px 0px 300px;
+    color: white;
+    font-size: 90px;
+    border-bottom: 5px solid maroon;
+}
+ 
+#im_size{
+    width:600px;
+    height: 600px;
+}
+ 
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+td, tr{
+    padding: 20px;
+    text-align: center;
+}
+ 
+#login{
+    border: 5px dashed #bcbcbc;
+}
+ 
+#form_style{
+    padding : 15px;
+    margin : 15px;
+    font-family: Georgia;
+    color : #bcbcbc;
+    font-size: 50px;
+}
+ 
+.font_style{
+    font-size: 30px;
+    font-family: Georgia;
+    color : antiquewhite;
+}
+ 
+.info_align{
+    text-align: left;
+}
+ul {
+    list-style-type: none;
+    margin : 50 0 50 200;
+    padding: 0;
+    overflow: hidden;
+}
+ 
+ 
+ 
+li a {
+    float: left;
+    font-size: 20px;
+    display: block;
+    color: aliceblue;
+    padding: 50px 20px;
+    margin-left: 200px;
+    margin-right: 0px;
+    text-decoration: none;
+    font-weight: bold;
+    border: 5px solid maroon;
+    border-radius: 50%;
+    width: 200;
+    height: 100;
+    text-align:center;
+}
+ 
